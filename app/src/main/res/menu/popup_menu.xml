@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="TV" android:id="@+id/item1"/>
+
+    <item android:title="Instagram" android:id="@+id/item2"/>
+
+    <item android:title="Sonyliv" android:id="@+id/item3"/>
+
+    <item android:title="Mail" android:id="@+id/item4"/>
+
+    <item android:title="Prothom-alo" android:id="@+id/item5"/>
+
+    <item android:title="Bdnews24" android:id="@+id/item6"/>
+    <item android:title="Bikroy.com" android:id="@+id/item7"/>
+
+</menu>
